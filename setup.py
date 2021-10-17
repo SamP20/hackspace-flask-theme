@@ -6,6 +6,7 @@ setup(
     package_data={
         "bristolhackspace.flask_theme": ["*"],
     },
+    zip_safe=False,
     install_requires=[
         "flask>=2.0",
     ]
