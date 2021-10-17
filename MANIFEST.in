@@ -1,0 +1,3 @@
+graft bristolhackspace/flask_theme/static
+graft bristolhackspace/flask_theme/templates
+global-exclude *.py[cod]
