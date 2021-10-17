@@ -4,7 +4,7 @@ setup(
     name='bristolhackspace.flask_theme',
     packages=find_namespace_packages(include=['bristolhackspace.*']),
     package_data={
-        "bristolhackspace": ["*"],
+        "bristolhackspace.flask_theme": ["*"],
     },
     install_requires=[
         "flask>=2.0",
